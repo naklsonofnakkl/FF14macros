@@ -1,0 +1,11 @@
+/micon "Resurrection"
+/macroerror off
+/ac "Swiftcast" <me> <wait.2>
+/ac "Resurrection" <t>
+/ac "Resurrection" <1>
+/ac "Resurrection" <2>
+/ac "Resurrection" <3>
+/ac "Resurrection" <4>
+/ac "Resurrection" <5>
+/ac "Resurrection" <6>
+/ac "Resurrection" <7>
